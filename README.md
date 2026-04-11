@@ -1,4 +1,4 @@
-# 💫 About Me:          
+# 💫 About Me:           
 👋 𝐇𝐢, 𝐈’𝐦 𝐀𝐥𝐢 𝐇𝐚𝐢𝐝𝐞𝐫<br><br>➤Senior Full-Stack Web Developer focused on building reliable SaaS dashboards, admin panels, and data-driven systems that actually work in real business environments.<br>➤I work at the intersection of engineering, data, and business logic designing systems that scale, stay maintainable, and don’t break under real usage.<br>➤Currently contributing to open-source projects and preparing for GSoC 2026<br><br>📍𝐁𝐞𝐟𝐨𝐫𝐞 𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐜𝐨𝐝𝐞, 𝐈 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝: 📌<br>• How the business works<br>• Where data comes from<br>• How teams will actually use the system<br><br>🎯 𝐖𝐡𝐚𝐭 𝐈 𝐅𝐨𝐜𝐮𝐬 𝐎𝐧:<br>✅ Clean system Architecture<br>✅ Admin panels that actually make sense for teams<br>✅ Scalable data flows (dashboards, reports, datasets)<br>✅ Production stability over shortcuts<br> 
 
 
